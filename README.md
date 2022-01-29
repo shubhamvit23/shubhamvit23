@@ -1,7 +1,7 @@
 - 👋 Hi, I’m shubham.
-- 👀 I’m interested in machine learning.
-- 🌱 I’m currently learning machine learning and data structures and algorithms.
-- 💞️ I’m looking to collaborate on machine learning and plans to deploy some of my projects on web.
+- 👀 I’m interested in machine learning,web developement and AI.
+- 🌱 I’m currently learning machine learning and artificial intelligence.
+- 💞️ I’m looking to collaborate on machine learning projects and plans to deploy some of my projects on web.
 - 📫 Feel free to contact me-
 - 📧-shubhamkumargaya0@gmail.com
      
